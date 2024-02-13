@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(astro_bot)
+project(ros2_pkgs)
 
 # Default to C99
 if(NOT CMAKE_C_STANDARD)
